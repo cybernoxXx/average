@@ -1,0 +1,1 @@
+Calculate the average, testing also that is independent by the order of the elements
